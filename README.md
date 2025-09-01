@@ -65,15 +65,15 @@ The app will open on `http://localhost:3000`.
 
 ---
 
-## 📸 Screenshots
+## 📸 User Interface backgrounds
 
 ### 🌤 Example (Sunny)
 
-![Sunny](public/sunny-demo.png)
+![Sunny](public/sunny.gif)
 
 ### 🌧 Example (Rainy)
 
-![Rainy](public/rainy-demo.png)
+![Rainy](public/Rain.gif)
 
 ---
 
